@@ -27,5 +27,3 @@
 ### 📫 Connect With Me
 - GitHub: You're already here! 😊
 
----
-✨ *Learning, building, and growing every day.*
