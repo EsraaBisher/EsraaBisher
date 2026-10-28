@@ -1,31 +1,55 @@
-# Hi, I'm Esraa Bisher 👋
+<div align="center">
+  <img src="https://github.com/USERNAME.png" width="150" />
 
-![My GitHub Profile](profile.png)
+  <h1>Hi, I'm Esraa Bisher 👋</h1>
+  <h3>MIS Student | Front-End Developer 💻</h3>
 
-🎓 MIS Student at New Cairo Institute for Administrative Sciences and Computer
+  <p>Building responsive and user-friendly websites.</p>
 
-💻 Front-End Developer passionate about building responsive and user-friendly websites.
+  <a href="https://www.linkedin.com/in/esraa-bisher-768630379">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</div>
 
-### 🚀 Skills & Technologies
+---
+
+## 👩‍💻 About Me
+
+- 🎓 MIS Student at New Cairo Institute for Administrative Sciences and Computer.
+- 💻 Interested in Front-End Development and Web Design.
+- 🌱 Always learning new technologies and improving my skills.
+- 🚀 Passionate about creating responsive and interactive websites.
+
+## 🛠️ Skills & Technologies
+
 - HTML5
 - CSS3
 - Bootstrap
 - JavaScript
 - React.js
 - Git & GitHub
-- PHP & Laravel
+- PHP
+- Laravel
 - MySQL
 
-### 📂 Projects
-- ☕ Coffee Website — Responsive website with animations.
-- 🎧 Audiophile — E-commerce project built with React.js.
-- ✈️ Travelia — Travel booking website built with PHP, Laravel, and Bootstrap.
+## 📂 My Projects
 
-### 📚 Training & Learning
+- ☕ **Coffee Website:** Responsive website with animations.
+- 🎧 **Audiophile:** E-commerce project built with React.js.
+- ✈️ **Travelia:** Travel booking website built with PHP, Laravel, and Bootstrap.
+
+## 📚 Training
+
 - Front-End Development
 - Full Stack PHP Development
-- Always learning and improving my skills.
 
-### 📫 Connect With Me
-- GitHub: You're already here! 😊
+## 📫 Connect With Me
 
+- **LinkedIn:** [Esraa Bisher](https://www.linkedin.com/in/esraa-bisher-768630379)
+- **GitHub:** https://github.com/USERNAME
+
+---
+
+<div align="center">
+  ✨ Learning, building, and growing every day! ✨
+</div>
