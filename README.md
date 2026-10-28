@@ -1,5 +1,7 @@
 # Hi, I'm Esraa Bisher 👋
 
+![My GitHub Profile](profile.png)
+
 🎓 MIS Student at New Cairo Institute for Administrative Sciences and Computer
 
 💻 Front-End Developer passionate about building responsive and user-friendly websites.
